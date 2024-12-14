@@ -1,4 +1,4 @@
-```markdown
+
 # Brain.fm Track Scraper
 
 This scraper logs into Brain.fm using your credentials, retrieves a streaming token for a specified station, and downloads multiple audio tracks directly to your computer. It helps you quickly obtain music tracks without manual intervention, ensuring no duplicate downloads and organizing files with clear naming conventions.
@@ -33,7 +33,6 @@ This scraper logs into Brain.fm using your credentials, retrieves a streaming to
    ```bash
    export BRAINFM_EMAIL="your_email@example.com"
    export BRAINFM_PASSWORD="your_password"
-   ```
 
 4. **Configure Script Variables:**
    Open the script in a text editor and change the following values as needed:
